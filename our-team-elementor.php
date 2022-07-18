@@ -3,12 +3,11 @@
 /**
  * Plugin Name: team Widgets Elementor
  * Description: Elementor custom widgets from team Widgets Elementor Web Apps.
- * Plugin URI: 
+ * Plugin URI: teamWidgetsElementoryassine_dotma
  * Version:     1.0.0
  * Author:      yassine_dotma
- * Author URI:  
+ * Author URI:  c
  * Text Domain: team-elementor-widget
- *
  * Elementor tested up to: 3.5.0
  * Elementor Pro tested up to: 3.5.0
  */
@@ -21,7 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Register Widgets.
  *
  * Include widget file and register widget class.
- *
+ 
  * @since 1.0.0
  * @param \Elementor\Widgets_Manager $widgets_manager Elementor widgets manager.
  * @return void
